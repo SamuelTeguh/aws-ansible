@@ -1,8 +1,8 @@
-aws_access_key: AKIAJ3NB3CPERUO3K7TA 
-aws_secret_key: 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
-key_name: id_ansible
-aws_region: ap-southeast-1
-vpc_id: vpc-ee79628a
-ami_id: ami-92ec5ef1
-instance_type: m1.small
-my_local_cidr_ip: 10.0.0.0/16
+aws_access_key: [access_key] 
+aws_secret_key: [secrect_key]
+key_name: [key-pair]
+aws_region: [for example: ap-southeast-1]
+vpc_id: [for example: vpc-ee79628a]
+ami_id: [for example: ami-92ec5ef1]
+instance_type: [for example: m1.small]
+my_local_cidr_ip: [for example: 10.0.0.0/16]
